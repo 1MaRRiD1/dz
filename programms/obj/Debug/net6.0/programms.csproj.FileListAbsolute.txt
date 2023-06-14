@@ -1,0 +1,15 @@
+C:\Users\_MarriD_\Desktop\dz_2\programms\bin\Debug\net6.0\programms.exe
+C:\Users\_MarriD_\Desktop\dz_2\programms\bin\Debug\net6.0\programms.deps.json
+C:\Users\_MarriD_\Desktop\dz_2\programms\bin\Debug\net6.0\programms.runtimeconfig.json
+C:\Users\_MarriD_\Desktop\dz_2\programms\bin\Debug\net6.0\programms.dll
+C:\Users\_MarriD_\Desktop\dz_2\programms\bin\Debug\net6.0\programms.pdb
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.csproj.AssemblyReference.cache
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.AssemblyInfoInputs.cache
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.AssemblyInfo.cs
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.csproj.CoreCompileInputs.cache
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.dll
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\refint\programms.dll
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.pdb
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\programms.genruntimeconfig.cache
+C:\Users\_MarriD_\Desktop\dz_2\programms\obj\Debug\net6.0\ref\programms.dll
