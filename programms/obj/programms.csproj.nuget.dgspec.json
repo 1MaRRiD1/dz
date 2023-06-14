@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\_MarriD_\\Desktop\\dz_2\\programms\\programms.csproj": {}
+    "C:\\Users\\_MarriD_\\Desktop\\dz\\programms\\programms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\_MarriD_\\Desktop\\dz_2\\programms\\programms.csproj": {
+    "C:\\Users\\_MarriD_\\Desktop\\dz\\programms\\programms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\_MarriD_\\Desktop\\dz_2\\programms\\programms.csproj",
+        "projectUniqueName": "C:\\Users\\_MarriD_\\Desktop\\dz\\programms\\programms.csproj",
         "projectName": "programms",
-        "projectPath": "C:\\Users\\_MarriD_\\Desktop\\dz_2\\programms\\programms.csproj",
+        "projectPath": "C:\\Users\\_MarriD_\\Desktop\\dz\\programms\\programms.csproj",
         "packagesPath": "C:\\Users\\_MarriD_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\_MarriD_\\Desktop\\dz_2\\programms\\obj\\",
+        "outputPath": "C:\\Users\\_MarriD_\\Desktop\\dz\\programms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\_MarriD_\\AppData\\Roaming\\NuGet\\NuGet.Config"
